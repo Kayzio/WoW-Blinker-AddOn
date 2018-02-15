@@ -25,6 +25,6 @@ __The rest is up to your imagination.__
   
 **Here is the AddOn in-game**  
   
-![picture alt](https://raw.githubusercontent.com/Kayzio/Lol-Simple-x64/master/64-bit/res/images/concept_image.png "In-Game Blinker")  
+![picture alt](https://raw.githubusercontent.com/Kayzio/WoW-Blinker-AddOn/master/WoW%20AddOn/Kayzio/Images/nodes_ingame.PNG "In-Game Blinker")  
   
 :star:Created by **Kayzio Groups**:star:  
